@@ -38,8 +38,7 @@ cat verify.yml
 
 hash_output=$(sha1sum verify.yml)
 
-
-
 echo $hash_output verify.yml
 
-#Carl_2022
+#carl_2022
+
