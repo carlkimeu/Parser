@@ -2,6 +2,8 @@
 
 # URL to the logs
 #url="https://coderbyte.com/api/challenges/logs/web-logs-raw"
+#url="https://coderbyte.com/api/challenges/logs/web-logs-raw-22"
+
 
 url="/home/carl/log"
 
